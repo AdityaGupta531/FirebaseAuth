@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "381864264440",
+    "firebase_url": "https://crahwithfabric.firebaseio.com",
+    "project_id": "crahwithfabric",
+    "storage_bucket": "crahwithfabric.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381864264440:android:ca0ce67092775a85",
+        "android_client_info": {
+          "package_name": "com.crashwithfabric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381864264440-hgjq218pesnifr02k244d8kvbl38glu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crashwithfabric",
+            "certificate_hash": "1dae171acde8d5f7b3bdc92fe764862920ea4da5"
+          }
+        },
+        {
+          "client_id": "381864264440-9hqv0vh5ptrriv7gsllh69g8vng6o2hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGq5psOcKNLem5kCuc5PmV66qikogG6dU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381864264440-9hqv0vh5ptrriv7gsllh69g8vng6o2hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
